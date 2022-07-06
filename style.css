@@ -1,0 +1,33 @@
+* {
+    text-align: center;
+}
+
+body {
+    background-color: aqua;
+}
+
+header {
+    position: sticky;
+    top: 0;
+    width: 100%;
+    background-color: darksalmon;
+}
+
+.subheader {
+    text-decoration-line: overline;
+    text-decoration-style: wavy;
+    text-decoration-color: rgb(235, 16, 70);
+    text-decoration-thickness: 15%;
+}
+
+#img1 {
+    height: 333px;
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#img2 {
+    margin-top: 50px;
+}
+
